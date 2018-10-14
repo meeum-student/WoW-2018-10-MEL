@@ -324,7 +324,7 @@ input[type="submit"] {
     font-family: var(--font-heading);
     text-transform: uppercase;
     background-color: var(--alternative-bg-color);
-
+    border: none;
     border-radius: 30px;
     padding: var(--padder);
     min-width: 200px;
